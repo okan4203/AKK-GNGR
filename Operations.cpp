@@ -36,6 +36,15 @@ int division(int a, int b)
 	return resultat;
 }
 
+int NombrePremier(int a, int n)
+{
+	a=4;
+	int resultat;
+	resultat= a*n;
+	return resultat;
+}
+	
+
 int distance(int x, int y)
 {
 	int resulat;
@@ -44,3 +53,4 @@ int distance(int x, int y)
 	resultat = y-x;
 	return resultat;
 }
+
