@@ -36,3 +36,11 @@ int division(int a, int b)
 	return resultat;
 }
 
+int distance(int x, int y)
+{
+	int resulat;
+	x=1;
+	y=2;
+	resultat = y-x;
+	return resultat;
+}
