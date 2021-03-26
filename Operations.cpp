@@ -36,3 +36,12 @@ int division(int a, int b)
 	return resultat;
 }
 
+int NombrePremier(int a, int n)
+{
+	a=4;
+	int resultat;
+	resultat= a*n;
+	return resultat;
+}
+	
+
