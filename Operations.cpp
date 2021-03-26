@@ -45,3 +45,12 @@ int NombrePremier(int a, int n)
 }
 	
 
+int distance(int x, int y)
+{
+	int resulat;
+	x=1;
+	y=2;
+	resultat = y-x;
+	return resultat;
+}
+
